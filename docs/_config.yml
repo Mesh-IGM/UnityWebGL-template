@@ -1,0 +1,6 @@
+theme:        jekyll-theme-slate
+
+plugins:
+  - "jekyll-github-metadata"
+
+title:        Erika's 202 Demos
